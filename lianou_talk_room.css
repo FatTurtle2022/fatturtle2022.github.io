@@ -1,0 +1,161 @@
+/*
+	@name lianou_talk_room
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__lianou_talk_room {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#tl___2 {
+	top: 25px;
+	left: 25px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#___________rgb_____________________ {
+	top: 479px;
+	left: 738px;
+	width: 1079px;
+	height: 157px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: center;
+	color:#0094fe;
+}
+
+
+#____2 {
+	opacity:0.502;
+	top: 32px;
+	left: 480px;
+	width: 406px;
+	height: 92px;
+	-ms-border-radius: 43px;
+	-o-border-radius: 43px;
+	-moz-border-radius: 43px;
+	-webkit-border-radius: 43px;
+	border-radius: 43px;
+	border: 3px solid #0094fe;
+	-ms-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,128);
+}
+
+
+#____1 {
+	opacity:0.502;
+	top: 32px;
+	left: 125px;
+	width: 331px;
+	height: 92px;
+	-ms-border-radius: 43px;
+	-o-border-radius: 43px;
+	-moz-border-radius: 43px;
+	-webkit-border-radius: 43px;
+	border-radius: 43px;
+	border: 3px solid #0094fe;
+	-ms-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 6px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,128);
+}
+
+
+#___ {
+	top: 44px;
+	left: 350px;
+	width: 110px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: left;
+	color:#0094fe;
+}
+
+
+#_____ek1 {
+	top: 44px;
+	left: 150px;
+	width: 110px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: left;
+	color:#0094fe;
+}
+
+
+#______ {
+	top: 44px;
+	left: 500px;
+	width: 190px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: left;
+	color:#0094fe;
+}
+
+
+#_______ek1 {
+	top: 44px;
+	left: 700px;
+	width: 190px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: left;
+	color:#0094fe;
+}
+
+
+#_____ek2 {
+	top: 44px;
+	left: 250px;
+	width: 110px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Smiley Sans;
+	font-size: 50px;
+	text-align: left;
+	color:#0094fe;
+}
+
+
+#_______ {
+	top: 218px;
+	left: 100px;
+	width: 580px;
+	height: 773px;
+}
+
+
+
+/* Add your custom CSS here */
